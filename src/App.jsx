@@ -1,4 +1,4 @@
-import { useState } from "react"
+import React, { useState } from "react"
 
 import Home from "./components/Home"
 import About from './components/About'
@@ -13,24 +13,30 @@ const App = () => {
 
    const [page, setPage] = useState('home')
 
+   const renderPage = () => {
+      if (page === 'home') {
+         return <Home />
+      } else if (page === 'about'){
+         return <About />
+      } else if (page === 'project'){
+         return <Project />
+      } else if (page === 'contact') {
+         return <Contact />
+      } else if (page === 'resume'){
+         return <Resume />
+      }
+   }
+
 
    return (
    <>
       <div className="container">
-         <Home />
-      </div>
+      {renderPage()}
 
-      <div className="container">
-
-         {page}
-
-         <About />
-         <Project />
-         <Contact />
-         <Resume />
       </div>
 
       <div>
+         <Project />
          <Footer />
       </div>
    </>

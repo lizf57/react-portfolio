@@ -1,0 +1,22 @@
+.headline {
+    color: #FFE8D6;
+    background-color: #CB997E;
+    text-shadow: 0 0 2px #6B705C;
+}
+
+.card-body .card-title {
+    color: #FFE8D6;
+    text-shadow: 0 0 2px #6B705C;
+
+}
+.card-text {
+    color: #6B705C;
+    text-shadow: 0 0 2px #FFE8D6;
+
+}
+
+.btns .btn{
+    color: #FFE8D6 ;
+    background-color: #CB997E;
+    border-color: #FFE8D6;
+}
