@@ -1,5 +1,4 @@
 import Header from "../Header"
-import Navigation from "../Navigation"
 
 import './home.css'
 
@@ -9,7 +8,6 @@ const Home = () => {
       
       <div className="container">
          <Header />
-         <Navigation />
       </div>
 
       <div>
