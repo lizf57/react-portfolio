@@ -20,3 +20,9 @@
     background-color: #CB997E;
     border-color: #FFE8D6;
 }
+
+.btns .btn:hover{
+    color: #CB997E ;
+    background-color: #FFE8D6;
+    border-color: #CB997E;
+}

@@ -3,3 +3,9 @@ button {
     background-color: #CB997E;
     border-color: #FFE8D6;
 }
+
+button:hover{
+    color: #CB997E ;
+    background-color: #FFE8D6;
+    border-color: #CB997E;
+}
