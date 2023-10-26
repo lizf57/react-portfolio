@@ -27,6 +27,7 @@ Link to deployment: [Netlify Deployment](https://netlify-friedman-react-portfoli
 
 
 ## [License](#table-of-contents)
+[ MIT License ](https://opensource.org/licenses/MIT)
 
 
 ## [Badges](#table-of-contents)
