@@ -61,8 +61,8 @@ const Project = () => {
                      <h4 className='card-title text-center fs-4'> Third Party API | Javascript </h4>
                      <p className='card-text text-center fs-5'>The Weather App enables users to access weather information for any city, including a comprehensive 5-day forecast.</p>
                      <div className='btns d-flex justify-content-center gap-3'>
-                        <a href='https://lizf57.github.io/weather-app/' className='btn' target='_blank'>Deploy App</a>
-                        <a href='https://github.com/lizf57/weather-app' className='btn' target='_blank'>Github Repo</a>
+                        <a href='https://lshankkirchner017.github.io/culinary-climate-uofw/' className='btn' target='_blank'>Deploy App</a>
+                        <a href='https://github.com/LShankKirchner017/culinary-climate-uofw' className='btn' target='_blank'>Github Repo</a>
                      </div>
                   </div>
                </div>
