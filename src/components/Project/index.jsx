@@ -27,7 +27,7 @@ const projects = [
    },
    {
       title: "Culinary Climate",
-      image: "/public/images/cc-logo.png",
+      image: "/images/cc-logo.png",
       technologies: "Two Server Side API's | CSS",
       description: "The Culinary Climate application has been crafted to assist users in making dinner menu decisions by leveraging weather forecast data.",
       deployedUrl: "https://lshankkirchner017.github.io/culinary-climate-uofw/",
@@ -35,7 +35,7 @@ const projects = [
    },
    {
       title: "Password Generator",
-      image: "/public/images/password.jpeg",
+      image: "/images/password.jpeg",
       technologies: "HTML | CSS | Javascript",
       description: "The Password Generator app empowers users to create randomized passwords using a combination of lowercase, uppercase, numeric, and special characters.",
       deployedUrl: "https://lizf57.github.io/password_generator/",
@@ -43,7 +43,7 @@ const projects = [
    },
    {
       title: "SVG Logo Maker",
-      image: "/public/images/logo-maker.jpeg",
+      image: "/images/logo-maker.jpeg",
       technologies: "Node | Inquirer | Jest",
       description: "SVG Logo Maker functions through Node JS command line using Inquirer for collecting input from the user to generate a logo to be saved as an SVG file.",
       deployedUrl: "https://github.com/lizf57/svg-logo-maker",
