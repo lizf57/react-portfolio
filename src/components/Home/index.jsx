@@ -12,7 +12,7 @@ const Home = () => {
 
       <div>
          <div className="d-flex justify-content-center hero">
-                  <img src="/public/images/profile.jpeg" className=" img-thumbnail rounded" alt="profile-pic"/>
+                  <img src="/images/profile.jpeg" className=" img-thumbnail rounded" alt="profile-pic"/>
          </div>
       </div>
      </>
