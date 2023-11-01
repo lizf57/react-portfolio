@@ -48,7 +48,7 @@ const projects = [
       description: "SVG Logo Maker functions through Node JS command line using Inquirer for collecting input from the user to generate a logo to be saved as an SVG file.",
       deployedUrl: "https://github.com/lizf57/svg-logo-maker",
       repoUrl: "https://github.com/lizf57/svg-logo-maker"
-   },
+   }
 
 ]
 

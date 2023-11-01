@@ -2,10 +2,11 @@
     color: #FFE8D6;
     text-shadow: 0 0 2px #CB997E;
     background-color: #6B705C;
+    border: 5px solid #Cb997E;
 }
 
 .about-title{
-    background-color: #6B705C;
+    background-color: #6B705C;    
 }
 
 .about-text{
