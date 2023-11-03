@@ -5,6 +5,7 @@ import About from './components/About'
 import Project from './components/Project'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
+import Resume from './components/Resume'
 
 import './app.css'
 
@@ -22,6 +23,8 @@ const App = () => {
             return <Project />
          case 'contact':
                return <Contact />
+         case 'resume':
+               return <Resume />
          default: 
             return <p>404 - Not Found </p>
       }
@@ -49,6 +52,10 @@ const App = () => {
 
                <a href="#"  onClick={() => setPage('contact')} className='rounded-3'>
                   <button className="rounded-3">Contact Info</button> 
+               </a>
+
+               <a href="#"  onClick={() => setPage('resume')} className='rounded-3'>
+                  <button className="rounded-3">Resume</button> 
                </a>
 
             </nav>
