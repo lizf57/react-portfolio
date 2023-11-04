@@ -1,0 +1,28 @@
+.resume-container{
+    color: #FFE8D6;
+    text-shadow: 0 0 2px #CB997E;
+    background-color: #6B705C;
+    border: 5px solid #Cb997E;
+}
+
+button {
+    float: right;
+    color: #FFE8D6 ;
+    background-color: #CB997E;
+    border-color: #FFE8D6;
+}
+
+
+
+.resume-title{
+    background-color: #6B705C;    
+}
+
+
+.grid-container{
+    background-color: #6B705C;
+}
+
+ul, li{
+    background-color: #6B705C;
+}

@@ -10,7 +10,6 @@ a {
     border-color: #FFE8D6;
     background-color: #DDBEA9;
     text-shadow: 0 0 2px #6B705C;
-    ;
 }
 
 a:hover {
@@ -34,4 +33,6 @@ a:link {
     border-radius: 10px;
     margin-top: 15px;
     margin-bottom: 15px;
+    display: flex;
+    flex-direction: column;
     }
