@@ -10,6 +10,14 @@ const projects = [
       repoUrl: "https://github.com/tjansson-ui/JobReadyResumeBuilder",
    },
    {
+      title: "Coding Quiz",
+      image: "/images/codeQuiz.png",
+      technologies: "Javascript | Web APIs",
+      description: "A dynamic, but simple, multiple choice quiz developed using HTML, CSS, and powered by Javascript.",
+      deployedUrl: "https://lizf57.github.io/code-quiz/",
+      repoUrl: "https://github.com/lizf57/code-quiz",
+   },
+   {
       title: "Work Day Schedule",
       image: "/images/office-organizer-img.jpeg",
       technologies: "jQuery | HTML | CSS",
@@ -49,7 +57,6 @@ const projects = [
       deployedUrl: "https://github.com/lizf57/svg-logo-maker",
       repoUrl: "https://github.com/lizf57/svg-logo-maker"
    }
-
 ]
 
 const Project = () => {
