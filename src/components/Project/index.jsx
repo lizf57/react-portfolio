@@ -10,6 +10,14 @@ const projects = [
       repoUrl: "https://github.com/tjansson-ui/JobReadyResumeBuilder",
    },
    {
+      title: "Scripts",
+      image: "/images/scripts-logo.png",
+      technologies: "MERN Stack | Chakra UI ",
+      description: "Scripts is a social media platform tailored to the needs of software developers and coders.",
+      deployedUrl: "https://scripts-connects-coders-15b85f76118d.herokuapp.com/login",
+      repoUrl: "https://github.com/lizf57/scripts-connect-coders",
+   },
+   {
       title: "Coding Quiz",
       image: "/images/codeQuiz.png",
       technologies: "Javascript | Web APIs",
@@ -85,7 +93,6 @@ const Project = () => {
 
             )
          })}
-
             </div>
          </div>
       </div>
