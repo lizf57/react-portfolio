@@ -26,6 +26,14 @@ const projects = [
       repoUrl: "https://github.com/lizf57/code-quiz",
    },
    {
+      title: "Friedman & Sons, LLC",
+      image: "/images/friedmansons.png",
+      technologies: "React | Chakra UI ",
+      description: "Friedman & Sons, LLC is a family owned business renovating homes. This small company was looking for a simple website design demo to expand their business. ",
+      deployedUrl: "https://lizf57.github.io/friedman-and-sons/",
+      repoUrl: "https://github.com/lizf57/friedman-and-sons"
+   },
+   {
       title: "Work Day Schedule",
       image: "/images/office-organizer-img.jpeg",
       technologies: "jQuery | HTML | CSS",
